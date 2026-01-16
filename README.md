@@ -1,2 +1,15 @@
-# meow
-meow meow
+# meow 
+An OpenCV + MediaPipe webcam program that detects your face (and a ☝🏻 warning gesture) and shows different “TikTok cat” images based on your expression.
+<img src="https://github.com/yye2004/meow/assets/cat-warning.jpeg" width="300">
+
+## Features
+- **cat-shock**: eyes wide + mouth open  
+- **cat-default**: mouth open + eyes shallow  
+- **cat-shut**: eyes big + mouth closed  
+- **cat-warning**: face detected + ☝🏻 index-finger-up gesture
+
+## Requirements
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
