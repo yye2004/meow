@@ -3,8 +3,6 @@ An OpenCV + MediaPipe webcam program that detects your face (and a ☝🏻 warni
 
 <img src="https://media.tenor.com/2Qp5v3B0hQAAAAAC/shocked-shocked-cat.gif" width="300">
 
-
-
 ## Features
 - **cat-shock**: eyes wide + mouth open  
 - **cat-default**: mouth open + eyes shallow  
