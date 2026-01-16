@@ -1,5 +1,6 @@
 # meow 
 An OpenCV + MediaPipe webcam program that detects your face (and a ☝🏻 warning gesture) and shows different cat stickers based on your expression.
+
 <img src="https://github.com/yye2004/meow/blob/main/assets/cat-shock.gif" width="300">
 
 ## Features
